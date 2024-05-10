@@ -2,7 +2,7 @@ public class MinhaClasse {
     
     public static void main(String[] args) {
 
-        double Altura = 1.72;
+        double altura = 1.72;
 
         final String BR = "brasil";
         // Quando tem o "final", a variável não pode ser alterada
