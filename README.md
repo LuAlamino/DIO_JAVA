@@ -2,7 +2,7 @@
 
 🏢 **Atuação Profissional**
 - 🚀 Atualmente Trabalho na area de sistemas na prefeitura de Sorocaba
-- 🎓 Cursando Analise e desenvolvimento de sistemas
+- 🎓 Cursando Análise e desenvolvimento de sistemas
 
 📱 **Especialidades**
 - 📚 Pergunte-me sobre JavaScript, HTML, CSS, MySQL
