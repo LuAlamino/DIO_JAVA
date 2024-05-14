@@ -2,7 +2,14 @@ public class MinhaClasse {
     
     public static void main(String[] args) {
 
-        double altura = 1.72;
+        String nome = args [0];
+        String sobrenome = args [1];
+        int idade = Integer.valueOf(args[2]);
+        double altura = Double.valueOf(args[3]);
+
+        System.out.println("Ola, fui executado pelo terminal");
+
+        
 
         final String BR = "brasil";
         // Quando tem o "final", a variável não pode ser alterada
@@ -25,6 +32,8 @@ public class MinhaClasse {
 
 
     }
+
+
 
     
 
