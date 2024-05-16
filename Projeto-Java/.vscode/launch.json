@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ExemploWhile",
+            "request": "launch",
+            "mainClass": "ExemploWhile",
+            "projectName": "Projeto-Java_32e82488"
+        },
+        {
+            "type": "java",
+            "name": "ExemploForArray",
+            "request": "launch",
+            "mainClass": "ExemploForArray",
+            "projectName": "Projeto-Java_32e82488"
+        },
+        {
+            "type": "java",
             "name": "PlanoOperadora",
             "request": "launch",
             "mainClass": "PlanoOperadora",

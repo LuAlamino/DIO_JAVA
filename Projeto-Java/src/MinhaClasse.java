@@ -8,12 +8,16 @@ public class MinhaClasse {
         double altura = Double.valueOf(args[3]);
 
         System.out.println("Ola, fui executado pelo terminal");
+        System.out.println(nome);
+        System.out.println(sobrenome);
+        System.out.println(idade);
+        System.out.println(altura);
 
         
 
         final String BR = "brasil";
         // Quando tem o "final", a variável não pode ser alterada
-
+        System.out.println(BR);
         String primeiroNome = "Lucas";
         String segundoNome = "Alamino";
 
