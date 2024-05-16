@@ -1,4 +1,4 @@
-import java.util.concurrent.ThreadLocalRandom;
+
 public class ExemploForArray {
 
     public static void main(String[] args) {

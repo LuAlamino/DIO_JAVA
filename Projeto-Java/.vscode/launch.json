@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "FormatadorCepExemplo",
+            "request": "launch",
+            "mainClass": "FormatadorCepExemplo",
+            "projectName": "Projeto-Java_32e82488"
+        },
+        {
+            "type": "java",
+            "name": "ExemploExceção",
+            "request": "launch",
+            "mainClass": "ExemploExceção",
+            "projectName": "Projeto-Java_32e82488"
+        },
+        {
+            "type": "java",
+            "name": "AboutMe",
+            "request": "launch",
+            "mainClass": "AboutMe",
+            "projectName": "Projeto-Java_32e82488"
+        },
+        {
+            "type": "java",
             "name": "ExemploWhile",
             "request": "launch",
             "mainClass": "ExemploWhile",
