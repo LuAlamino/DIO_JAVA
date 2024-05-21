@@ -25,25 +25,24 @@ public class estabelecimento {
         Almoxarife almoxarife = new Almoxarife();
         //ações que não precisam estarem disponiveis para toda a aplicação
         almoxarife.controlarEntrada();
-        almoxarife.controlarSaida();
+        
         //ações que somente o seu pacote cozinha  precisa conhecer (default)
-        almoxarife.entregarIngredientes();
-        almoxarife.trocarGas();
+        
 
         Atendente atendente = new Atendente();
-        atendente.pegarLancheCozinha();
+        
         atendente.receberPagamento();
         atendente.servindoMesa();
         //ação que somente o seu pacote cozinha precisa conhecer (default)
-        atendente.trocarGas();
+        
 
         Cliente cliente = new Cliente();
         cliente.escolherLanche();
         cliente.fazerPedido();
         cliente.pagarConta();
 
-        cliente.pegarPedidoBalcao();
-        cliente.consultarSaldoAplicativo();
+        //cliente.pegarPedidoBalcao();
+        //cliente.consultarSaldoAplicativo();
 
         cozinheiro.pedirParaTrocarGas(atendente);
         cozinheiro.pedirParaTrocarGas(almoxarife);
