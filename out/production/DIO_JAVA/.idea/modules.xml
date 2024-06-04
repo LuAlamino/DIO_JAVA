@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/DIO_JAVA.iml" filepath="$PROJECT_DIR$/DIO_JAVA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DIO_POO/Escola/Escola.iml" filepath="$PROJECT_DIR$/DIO_POO/Escola/Escola.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Map/Map.iml" filepath="$PROJECT_DIR$/Map/Map.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ordenação List/Ordenação List.iml" filepath="$PROJECT_DIR$/Ordenação List/Ordenação List.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DIO_POO/POO/POO.iml" filepath="$PROJECT_DIR$/DIO_POO/POO/POO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Pesquisa List/Pesquisa List.iml" filepath="$PROJECT_DIR$/Pesquisa List/Pesquisa List.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Projeto-Java/Projeto-Java.iml" filepath="$PROJECT_DIR$/Projeto-Java/Projeto-Java.iml" />
+    </modules>
+  </component>
+</project>
